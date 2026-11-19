@@ -6,13 +6,15 @@
 
 [English summary below](#english)
 
-![タイトル画面](screenshots/title.png)
+![タイトル画面](title.png)
 
 | ステージ1（草原） | ステージ6（雪） | 全面クリア |
 |---|---|---|
-| ![ステージ1](screenshots/stage1.png) | ![ステージ6](screenshots/stage6.png) | ![全面クリア](screenshots/ending.png) |
+| ![ステージ1](stage1.png) | ![ステージ6](stage6.png) | ![全面クリア](ending.png) |
 
 ## ファイル
+
+`ETEN_REMASTER.zip` をダウンロードして展開してください。中に次の2つが入っています。
 
 | ファイル | 内容 |
 |---|---|
@@ -102,6 +104,8 @@ The original game by m.t, written in BASIC and machine language, was published i
 This repository is a 2026 remake by nezipop, made with the original author's permission: colorized, rewritten entirely in machine language, and bootable from IPL.
 
 ### Files
+
+Download and unzip `ETEN_REMASTER.zip`. It contains:
 
 - `ETEN.mzt` – tape image (MZT)
 - `ETEN.d88` – floppy disk image (D88, boots from IPL)
